@@ -19,6 +19,7 @@ body {
     padding: 20px;
     border-radius: 12px;
     background-color: #fff;
+    box-shadow: 1px 1px 10px #999;
 }
 
 .image {
@@ -62,6 +63,7 @@ body {
     color: #fff;
     font-weight: 600;
     font-size: 1.2rem;
+    cursor: pointer;
     background-color: #2bb656;
 }
 
